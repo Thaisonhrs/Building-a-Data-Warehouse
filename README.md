@@ -3,7 +3,8 @@
 MATDGV nvarchar(20) not null primary key,
 TENCHUONGTRINH nvarchar(200)
 )`
-```CREATE TABLE TRAODOIGIANGVIEN(
+```sql
+CREATE TABLE TRAODOIGIANGVIEN(
 MATDGV nvarchar(20) not null primary key,
 TENCHUONGTRINH nvarchar(200)
 )```
